@@ -1,0 +1,6 @@
+{
+  "/api/cards": {
+    "target" : "http://localhost:3000/cards",
+    "secure": false
+  }
+}
